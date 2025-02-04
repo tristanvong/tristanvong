@@ -1,7 +1,7 @@
 # Hello, I'm Tristan
 
 ## About Me
-I'm currently a student at Erasmushogeschool Brussel studying Applied Computer Science.
+I'm currently a student at Erasmushogeschool Brussel studying Applied Computer Science. Check out my website: [tristanvong.be](https://tristanvong.be/welcome)
 
 ## Projects I'm Proud Of
 - **[InternQuest](https://github.com/tristanvong/InternQuest)**: This Spring powered project aims to make it more fun for students to find an internship just like in a quest in a game. I made this because I think finding an internship is difficult and needs some motivation I believe this small project could help people with that issue.
