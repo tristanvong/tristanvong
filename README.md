@@ -11,6 +11,7 @@ I'm currently a student at Erasmushogeschool Brussel studying Applied Computer S
 
 ## Projects I stand behind and support
 - **[Snowflake ❄️ Project by Tor](https://snowflake.torproject.org/)**: "Snowflake is a system that **allows people from all over the world to access censored websites and applications**. Similar to how VPNs assist users in getting around Internet censorship, Snowflake helps you avoid being noticed by Internet censors by making your Internet activity appear as though you're using the Internet for a regular video or voice call."
+- **[KDE Desktop Environment](https://github.com/KDE/plasma-desktop)**: Since I've started using Linux (openSUSE Tumbleweed) on my laptop I've stuck with KDE because of it's simplicity but how extensible it is. I really like it.
 
 ## Contact Me
 - [LinkedIn](https://be.linkedin.com/in/tristanvong)
