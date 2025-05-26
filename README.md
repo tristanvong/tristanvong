@@ -8,7 +8,7 @@ I'm currently a student at Erasmushogeschool Brussel studying Applied Computer S
 - **[Cookingz](https://github.com/tristanvong/Cookingz)**: This Laravel powered project is a community-driven website on which users are able to share their favorite recipes, making it easy for anyone to discover new recipes with ease. I like cooking from time to time and this is why I made it.
 - **[BestCat4U](https://github.com/tristanvong/WebAdvanced)**: Even though this is not my best work, I really liked working on this project because I really like cats. I might remake this during the summer break.
 
-## Projects I stand behind and support
+## Projects I like
 - **[Snowflake ❄️ Project by Tor](https://snowflake.torproject.org/)**: "Snowflake is a system that **allows people from all over the world to access censored websites and applications**. Similar to how VPNs assist users in getting around Internet censorship, Snowflake helps you avoid being noticed by Internet censors by making your Internet activity appear as though you're using the Internet for a regular video or voice call."
 - **[KDE Desktop Environment](https://github.com/KDE/plasma-desktop)**: Since I've started using Linux (openSUSE Tumbleweed) on my laptop I've stuck with KDE because of its simplicity but how extensible it is. I really like it.
 
