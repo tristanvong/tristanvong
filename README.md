@@ -1,6 +1,5 @@
 # Hello, I'm Tristan
 
-## About Me
 I'm currently a student at Erasmushogeschool Brussel studying Applied Computer Science. Check out my website: [tristanvong.be](https://tristanvong.be)
 
 ## Some of the projects I made/ am working on
