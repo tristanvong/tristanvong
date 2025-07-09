@@ -1,6 +1,6 @@
 # Hello, I'm Tristan
 
-I'm currently a student at Erasmushogeschool Brussel studying Applied Computer Science. Check out my website: [tristanvong.be](https://tristanvong.be)
+I'm currently a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en) studying Applied Computer Science. Check out my website: [tristanvong.be](https://tristanvong.be)
 
 ## Some of the projects I made/ am working on
 - **[BXL Project: Internaat Woluwe](https://github.com/WoutDepeuter/internaat-bxl-project)**: This Expo (TypeScript / React Native) project was given to us by a boarding school in Brussels. Wout and I wanted to do something that would have a positive impact on the community, so we asked around and offered our help voluntarily. Our task was to transform their existing website into a mobile application.
