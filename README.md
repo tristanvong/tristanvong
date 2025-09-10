@@ -2,6 +2,9 @@
 
 I'm currently a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en) studying Applied Computer Science. Check out my website: [tristanvong.be](https://tristanvong.be)
 
+> [!NOTE]
+> I'm planning on remaking some of my old projects in the coming weeks. To implement Docker and change some parts to strive to have better software.
+
 ## Some of the projects I made/ am working on
 - **[BXL Project: Internaat Woluwe](https://github.com/WoutDepeuter/internaat-bxl-project)**: This Expo (TypeScript / React Native) project was given to us by a boarding school in Brussels. Wout and I wanted to do something that would have a positive impact on the community, so we asked around and offered our help voluntarily. Our task was to transform their existing website into a mobile application.
 - **[BestCat4U-Py](https://github.com/tristanvong/BestCat4U-Py)**: A quiz which suggests a cat breed based on your preference, quick and easy to use. This project is a remake of my older (first version): [BestCat4U](https://github.com/tristanvong/BestCat4U)
