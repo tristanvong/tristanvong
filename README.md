@@ -3,6 +3,7 @@
 I'm currently a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en) studying Applied Computer Science. Check out my website: [tristanvong.be](https://tristanvong.be)
 
 ## Some of the projects I made/ am working on
+- **[tbot](https://github.com/tristanvong/tbot)**: My own Discord bot made using JDA framework.
 - **[BXL Project: Internaat Woluwe](https://github.com/WoutDepeuter/internaat-bxl-project)**: This Expo (TypeScript / React Native) project was given to us by a boarding school in Brussels. Wout and I wanted to do something that would have a positive impact on the community, so we asked around and offered our help voluntarily. Our task was to transform their existing website into a mobile application.
 - **[BestCat4U-Py](https://github.com/tristanvong/BestCat4U-Py)**: A quiz which suggests a cat breed based on your preference, quick and easy to use. This project is a remake of my older (first version): [BestCat4U](https://github.com/tristanvong/BestCat4U)
 - **[Cookingz](https://github.com/tristanvong/Cookingz)**: This Laravel powered project is a community-driven website on which users are able to share their favorite recipes, making it easy for anyone to discover new recipes with ease. I like cooking from time to time and this is why I made it.
