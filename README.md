@@ -2,7 +2,7 @@
 
 I'm a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en) studying Applied Computer Science.
 
-## Some of the projects I made/ am working on
+## Stuff I created
 - **[trisutils](https://github.com/tristanvong/trisutils)**: A CLI program written in C to solve trivial tasks.
 - **[tbot](https://github.com/tristanvong/tbot)**: My own Discord bot made using JDA framework.
 - **[BXL Project: Internaat Woluwe](https://github.com/WoutDepeuter/internaat-bxl-project)**: Expo project with a classmate made for a boarding school.
@@ -14,7 +14,7 @@ I'm a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en
 - **[Snowflake ❄️ Project by Tor](https://snowflake.torproject.org/)**
 - **[Vimium](https://github.com/philc/vimium)**
 
-## Contact Me
+## Contact info
 - [LinkedIn](https://be.linkedin.com/in/tristanvong)
 - [Email](mailto:tristan.vong@student.ehb.be)
 
