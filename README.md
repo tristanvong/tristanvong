@@ -1,5 +1,3 @@
-# My name is ~~jeff~~ Tristan
-
 I'm a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en) studying Applied Computer Science.
 
 ## Stuff I created
