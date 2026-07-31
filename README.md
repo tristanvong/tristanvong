@@ -11,6 +11,8 @@ I'm a student at [Erasmushogeschool Brussel](https://www.erasmushogeschool.be/en
 ## Projects I endorse
 - **[Snowflake ❄️ Project by Tor](https://snowflake.torproject.org/)**
 - **[Vimium](https://github.com/philc/vimium)**
+- **[And the others...](https://github.com/tristanvong?tab=stars)**
+
 
 ## Contact info
 - [LinkedIn](https://be.linkedin.com/in/tristanvong)
